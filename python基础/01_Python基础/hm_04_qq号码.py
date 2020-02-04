@@ -11,3 +11,7 @@ qq_number
 # 如果希望通过解释器的方式，输出变量的内容，需要使用 print 函数
 print(qq_number)
 print(qq_password)
+
+
+number = 123124
+print(number)

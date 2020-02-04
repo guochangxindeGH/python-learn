@@ -19,7 +19,7 @@ name_list[1] = "李四"
 name_list.append("王小二")
 # insert 方法可以在列表的指定索引位置插入数据
 name_list.insert(1, "小美眉")
-
+print(name_list)
 # extend 方法可以把其他列表中的完整内容，追加到当前列表的末尾
 temp_list = ["孙悟空", "猪二哥", "沙师弟"]
 name_list.extend(temp_list)
